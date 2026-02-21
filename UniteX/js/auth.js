@@ -10,3 +10,4 @@ function signup() {
 function logout() {
   alert("Logout not connected to Firebase yet.");
 }
+
